@@ -1,4 +1,4 @@
-import bind;
+import winbind.bind;
 import funs;
 import std.stdio;
 
