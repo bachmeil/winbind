@@ -29,9 +29,6 @@ _Creates runtime bindings for use on Windows given a model of `extern(C)` functi
 
 ---
 
-## Installation
+## Usage
 
-1. **Clone the repository**  
-   ```sh
-   git clone https://github.com/bachmeil/winbind.git
-   cd winbind
+Add bind.d to your project. Add `import winbind.bind;` to the files that will use it.
